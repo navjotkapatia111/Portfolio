@@ -24,7 +24,7 @@ import { ProjectCard } from './projects'
       image:'/Youtube.png',
       description:'I build this by fetching the youtube api. In which you can search and watch videos and also enjoy options of live chat',
       technology:'Typescript, React, Redux and Tailwindcss',
-      link:''
+      link:'https://youtube-s99l.vercel.app/'
     },
     // {
     //   title:'Food Restuarant Web App',
