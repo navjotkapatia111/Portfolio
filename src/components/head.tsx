@@ -11,7 +11,7 @@ function Head() {
       </h1>
 
       <div className="fixed top-4 right-6 flex gap-4 z-50">
-        <a href='/Resume.pdf' download className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">
+        <a href='/CV.pdf' download className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">
           Download Resume
         </a>
         <a href="#contact"className="bg-gray-700 text-white px-4 py-2 rounded hover:bg-gray-800 transition">
