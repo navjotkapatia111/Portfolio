@@ -1,4 +1,3 @@
-import React from 'react'
 import '../index.css'
 import Contact from './contact'
 import { ProjectCard } from './projects'
@@ -22,7 +21,7 @@ import { ProjectCard } from './projects'
     },
     {
       title:'Youtube',
-      image:'',
+      image:'/Youtube.png',
       description:'I build this by fetching the youtube api. In which you can search and watch videos and also enjoy options of live chat',
       technology:'Typescript, React, Redux and Tailwindcss',
       link:''
