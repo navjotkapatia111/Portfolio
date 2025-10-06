@@ -26,13 +26,13 @@ import { ProjectCard } from './projects'
       technology:'Typescript, React, Redux and Tailwindcss',
       link:'https://youtube-s99l.vercel.app/'
     },
-    // {
-    //   title:'Food Restuarant Web App',
-    //   image:'',
-    //   description:'I build this by fetching the swiggy api. In which you can simply see the food items provided by different restuarants through swiggy',
-    //   technology:'HTML, CSS and JavaScript',
-    //   link:''
-    // },
+    {
+      title:'Food Restuarant Web App',
+      image:'/food.png',
+      description:'I build this by fetching the swiggy api. In which you can simply see the food items provided by different restuarants through swiggy',
+      technology:'HTML, CSS and JavaScript',
+      link:'https://www.youtube.com/watch?v=CpBPJ5hoG50'
+    },
 
   ]
     return(

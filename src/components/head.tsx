@@ -10,7 +10,7 @@ function Head() {
 
         <div className="flex flex-wrap gap-2 md:gap-3 justify-center md:justify-end">
           <a
-            href="/Resume.pdf"
+            href="/CV (1).pdf.pdf"
             download
             className="bg-blue-600 text-white px-3 sm:px-4 py-2 rounded text-sm sm:text-base hover:bg-blue-700 transition"> Download Resume </a>
             
