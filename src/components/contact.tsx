@@ -6,6 +6,9 @@ const Contact = () => (
 
         <a href="https://www.linkedin.com/in/navjot-kapatia-6077a8243" target="_blank" rel="noopener noreferrer"
           className="block text-blue-400 hover:underline text-base sm:text-xl"> 🔗 LinkedIn Profile</a>
+
+        <a href="https://github.com/navjotkapatia111" target="_blank" rel="noopener noreferrer"
+          className="block text-blue-400 hover:underline text-base sm:text-xl"> 🔗 GitHub</a>
       </div>
     </section>
   );
